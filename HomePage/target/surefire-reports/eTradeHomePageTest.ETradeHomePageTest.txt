@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: eTradeHomePageTest.ETradeHomePageTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 1, Errors: 0, Skipped: 5, Time elapsed: 19.609 s <<< FAILURE! - in eTradeHomePageTest.ETradeHomePageTest
+setUp(eTradeHomePageTest.ETradeHomePageTest)  Time elapsed: 19.364 s  <<< FAILURE!
+org.openqa.selenium.InvalidArgumentException: 
+invalid argument
+  (Session info: chrome=86.0.4240.198)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Users-MBP', ip: '2604:2000:6a80:1352:0:cec4:e9ae:1382%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.7', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.198, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/l2/dpb5_d4d40v...}, goog:chromeOptions: {debuggerAddress: localhost:55507}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: ee13beb897aa9aaf9862f3fb3d53f387
+
